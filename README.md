@@ -20,9 +20,10 @@ To view the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/FelipePaneque11/Bootstrap-Website.git
+![1](https://github.com/FelipePaneque11/Bootstrap-Website/assets/146108025/9f58be87-9533-4884-8e0b-d8fae14c3f4b)
+![2](https://github.com/FelipePaneque11/Bootstrap-Website/assets/146108025/7bf91a9b-8dba-428d-9265-e221008f8e3d)
 
-   ![1](https://github.com/FelipePaneque11/Bootstrap-Website/assets/146108025/52ec2d0f-b467-46a9-afbb-81053e3d6922)
-   ![2](https://github.com/FelipePaneque11/Bootstrap-Website/assets/146108025/cf154c29-8f40-43ef-ba3d-4f5816653247)
+
 
    Contact
 Felipe Paneque - paneque.malta@gmail.com - https://www.linkedin.com/in/felipepaneque1/
